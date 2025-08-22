@@ -1,2 +1,2 @@
 # Projects_Rust
-Rust Projects from "The Rust Book"
+Rust Projects from "The Rust Book" and others.
